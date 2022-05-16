@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactbenzwebsite/static/css/main.1321c35a.css",
+    "main.js": "/reactbenzwebsite/static/js/main.3f8af680.js",
+    "static/js/787.6163fe7b.chunk.js": "/reactbenzwebsite/static/js/787.6163fe7b.chunk.js",
+    "static/media/benz3048.jpg": "/reactbenzwebsite/static/media/benz3048.dc950cde68d67aa3e2e6.jpg",
+    "static/media/benz1.webp": "/reactbenzwebsite/static/media/benz1.b50e2e034dbf7201be69.webp",
+    "static/media/benz.jpeg": "/reactbenzwebsite/static/media/benz.bc2c718fe17322c35622.jpeg",
+    "static/media/benz3.jpeg": "/reactbenzwebsite/static/media/benz3.4b2a7934e6848f3d236a.jpeg",
+    "static/media/benz12321.jpg": "/reactbenzwebsite/static/media/benz12321.fa1871f55150d93c1966.jpg",
+    "static/media/benz5.webp": "/reactbenzwebsite/static/media/benz5.2ea74ce6400dbad728d3.webp",
+    "static/media/benz logo.png": "/reactbenzwebsite/static/media/benz logo.0bcd65406908ab1220c0.png",
+    "static/media/benz4.webp": "/reactbenzwebsite/static/media/benz4.2321a0bc19c50efd6c19.webp",
+    "static/media/benz6.webp": "/reactbenzwebsite/static/media/benz6.050517489a7ba88625f3.webp",
+    "static/media/benz2.webp": "/reactbenzwebsite/static/media/benz2.8a94dfd258d9b5de8d03.webp",
+    "static/media/dark.jpg": "/reactbenzwebsite/static/media/dark.486136909381937dbb8b.jpg",
+    "index.html": "/reactbenzwebsite/index.html",
+    "main.1321c35a.css.map": "/reactbenzwebsite/static/css/main.1321c35a.css.map",
+    "main.3f8af680.js.map": "/reactbenzwebsite/static/js/main.3f8af680.js.map",
+    "787.6163fe7b.chunk.js.map": "/reactbenzwebsite/static/js/787.6163fe7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1321c35a.css",
+    "static/js/main.3f8af680.js"
+  ]
+}
